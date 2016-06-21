@@ -1,1 +1,2 @@
 http://amsapp72:8080/svn/development/
+-Xms512m -Xmx1024m -XX:MaxPermSize=512m
