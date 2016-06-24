@@ -3,4 +3,10 @@ http://amsapp72:8080/svn/development/
 git clone file:////10.196.98.24/C:/Users/kishore.kg/Desktop/code
 git clone file://\\\\192.168.0.51\code
 
-hellllllllllllllllllllllllllllllllllllllllllo
+git remote -v //to check the remote url
+validateAttributeValue("//*[@id='customerName']", "id", "customerName"); 
+
+
+ssh-keygen
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
